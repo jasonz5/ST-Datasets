@@ -9,7 +9,7 @@
 
 - LargeST: [Data](https://www.kaggle.com/datasets/liuxu77/largest)
     - Liu et. al. NeurIPS, 2023 ([PDF](https://arxiv.org/pdf/2306.08259.pdf)) ([arXiv](https://arxiv.org/abs/2306.08259)) ([Code](https://github.com/liuxu77/LargeST))
-
+  
     <div style="text-align: center;">
         <img src="figures/largest.png" alt="Traffic speed/flow datasets"  width="600">
     </div>
@@ -53,7 +53,7 @@
     - Zhang et al. arXiv 2024 ([PDF](https://arxiv.org/pdf/2403.05029.pdf)) ([arXiv](https://arxiv.org/abs/2403.05029)) ([Code](https://github.com/ChyaZhang/BjTT))
 
     <div style="text-align: left;">
-        <img src="figures/BjTT.png" alt="BjTT datasets"  width="500">
+        <img src="figures/BjTT.png" alt="BjTT datasets"  width="600">
     </div>
 
     
@@ -72,8 +72,10 @@
 
 - CHI-Crime / NYC-Crime
     - [data](https://github.com/akaxlh/ST-SHN)
-    
-    ![Untitled](figures/Untitled%205.png)
+
+    <div style="text-align: left;">
+        <img src="figures/crimes.png" alt="climate datasets"  width="400">
+    </div>
     
 
 # Long Time-series Forecasting
