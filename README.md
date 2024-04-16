@@ -23,7 +23,7 @@
     - Liu et. al. NeurIPS, 2023 ([PDF](https://arxiv.org/pdf/2306.08259.pdf)) ([arXiv](https://arxiv.org/abs/2306.08259)) ([Code](https://github.com/liuxu77/LargeST))
   
     <div style="text-align: center;">
-        <img src="figures/largest.png" alt="Traffic speed/flow datasets"  width="600">
+        <img src="figures/largest.png" alt="Traffic speed/flow datasets">
     </div>
 
 - PEMS03/04/07/08: [Data](https://drive.google.com/drive/folders/14EJVODCU48fGK0FkyeVom_9lETh80Yjp)-[BasicTS](https://github.com/zezhishao/BasicTS)
@@ -41,7 +41,7 @@
 
 - Chendu/Shenzhen: [Data](https://drive.google.com/drive/folders/1UrKTgR27YmP9PjJ-FWv4SCDH3zUxtc5R) - [TPB](https://github.com/zhyliu00/TPB)
     <div style="text-align: left;">
-        <img src="figures/TPB.png" alt="TPB datasets"  width="400">
+        <img src="figures/TPB.png" alt="TPB datasets"  width="500">
     </div>
     
 
@@ -55,7 +55,7 @@
 - NYCTaxi/BJTaxi: [Data](https://drive.google.com/file/d/1n0y6X8pWNVwHxtFUuY8WsTYZHwBe9GeS/view) - [ST-SLL](https://github.com/Echo-Ji/ST-SSL)
 
     <div style="text-align: left;">
-        <img src="figures/st-ssl.png" alt="st-ssl datasets"  width="400">
+        <img src="figures/st-ssl.png" alt="st-ssl datasets"  width="500">
     </div>
 
 
@@ -65,7 +65,7 @@
     - Zhang et al. arXiv 2024 ([PDF](https://arxiv.org/pdf/2403.05029.pdf)) ([arXiv](https://arxiv.org/abs/2403.05029)) ([Code](https://github.com/ChyaZhang/BjTT))
 
     <div style="text-align: left;">
-        <img src="figures/BjTT.png" alt="BjTT datasets"  width="600">
+        <img src="figures/BjTT.png" alt="BjTT datasets">
     </div>
 
     
@@ -76,7 +76,7 @@
     - AirFormer AAAI 2023 ([PDF](https://arxiv.org/pdf/2211.15979.pdf)) ([arXiv](https://arxiv.org/abs/2211.15979)) ([Code](https://github.com/yoshall/AirFormer))
     
     <div style="text-align: left;">
-        <img src="figures/climate.png" alt="climate datasets"  width="400">
+        <img src="figures/climate.png" alt="climate datasets"  width="500">
     </div>
 
 
@@ -86,7 +86,7 @@
     - [data](https://github.com/akaxlh/ST-SHN)
 
     <div style="text-align: left;">
-        <img src="figures/crimes.png" alt="climate datasets"  width="400">
+        <img src="figures/crimes.png" alt="climate datasets"  width="500">
     </div>
     
 
